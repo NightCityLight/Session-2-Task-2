@@ -1,0 +1,153 @@
+body{
+
+    background: grey;
+ } 
+
+ .ul{
+    list-style: none;
+ }
+
+ .h2{
+    background-color: rgb(223, 235, 165);
+    display: inline-block;
+    text-align: Center; 
+    height: 50px;
+    width: 150px;
+    background-color: white; 
+
+ }
+
+ .tcolor{
+    margin-top:100px;
+    background-color:white;
+    width: 1500px;
+    height: 50px;
+ }
+  
+ .ul2{
+    display: inline-block;
+    text-align: left; 
+    list-style: none;
+    color: white;
+    
+ }
+
+ .li2{
+    
+    margin-top:30px;
+    margin-bottom:20px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 1px;
+    background-color: rgb(33, 148, 255);
+ }
+
+ .li3{
+    
+    margin-top:0px;
+    margin-bottom:20px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 1px;
+    background-color: rgb(33, 148, 255);
+ }
+
+ .li7{
+    
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 1px;
+    background-color: rgb(33, 148, 255);
+ }
+
+ .ul3{
+    display: inline-block;
+    text-align: left; 
+    list-style: none;
+    color: black;
+    width: 600px;
+    
+ }
+ 
+ .li4{
+    
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 5px;
+    background-color: white
+ }
+
+ .li5{
+    
+    margin-top:10px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 5px;
+    background-color: white;
+ }
+
+ .li6{
+    
+    margin-top:20px;
+    margin-bottom:80px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 5px;
+    background-color: white;
+ }
+
+ .li8{
+    
+    margin-top:10px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 50px;
+    padding-top: 5px;
+    background-color: white;
+ }
+
+ .Chania{
+    margin-top:80px;
+    margin-bottom:10px;
+    margin-left:20px;
+    margin-right: 20px;
+    color: white;
+
+ }
+
+ .footer{
+
+    margin-top:80px;
+    margin-bottom:10px;
+    margin-left:20px;
+    margin-right: 20px;
+    color: white;
+
+
+ }
